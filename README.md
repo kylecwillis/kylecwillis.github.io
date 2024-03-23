@@ -1,3 +1,3 @@
 # kylecwillis.github.io
-kylewillis.xyz
-github.kylewillis.xyz
+(kylewillis.xyz)[https://kylewillis.xyz]
+(github.kylewillis.xyz)[https://github.kylewillis.xyz]
